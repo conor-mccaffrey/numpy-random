@@ -13,7 +13,8 @@ You can view the notebook at the following image:
 
 ## How to run the notebook
 
+
 1. Download [Anaconda]().
-2. Download [cmdr]() if on Windows
+2. Download [cmdr]() if on Windows.
 3. Run 'jupyter lab'.
 
